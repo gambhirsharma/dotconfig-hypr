@@ -1,0 +1,32 @@
+window:
+  padding:
+    x: 10
+    y: 10
+  class:
+    instance: Alacritty
+    general: Alacritty
+  opacity: 0.98
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+cursor:
+  style:
+    shape: Beam
+    blinking: Always
+  blink_interval: 500
+  unfocused_hollow: true
+  thickness: 0.15
+
+import:
+  - ~/.config/alacritty/catppuccin-mocha.yml
+
+selection:
+  save_to_clipboard: false
+
+shell:
+  program: /usr/bin/zsh
+
+key_bindings:
+  - { key: Return, mods: Super|Shift, action: SpawnNewInstance }
