@@ -1,0 +1,2 @@
+2023-10-02 01:02:56.763 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/gambhir/.config/waybar/config.jsonc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-02 01:03:05.091 [info] [perf] Render performance baseline is 164ms

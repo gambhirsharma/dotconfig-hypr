@@ -1,0 +1,2 @@
+2023-10-02 00:09:58.540 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/gambhir/.config/hypr/hyprland.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-10-02 00:10:07.084 [info] [perf] Render performance baseline is 139ms

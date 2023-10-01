@@ -1,0 +1,48 @@
+2023-09-27 18:46:49.154 [info] Log level: Info
+2023-09-27 18:46:49.154 [info] Validating found git in: "git"
+2023-09-27 18:46:49.154 [info] Using git "2.42.0" from "git"
+2023-09-27 18:46:49.154 [info] > git rev-parse --show-toplevel [42ms]
+2023-09-27 18:46:49.154 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.154 [info] > git rev-parse --show-toplevel [8ms]
+2023-09-27 18:46:49.154 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.156 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 18:46:49.156 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.171 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 18:46:49.171 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.188 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 18:46:49.188 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.204 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 18:46:49.204 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.229 [info] > git rev-parse --show-toplevel [7ms]
+2023-09-27 18:46:49.251 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-09-27 18:46:49.314 [info] Open repository: /home/gambhir/.oh-my-zsh
+2023-09-27 18:46:49.354 [info] > git rev-parse --show-toplevel [10ms]
+2023-09-27 18:46:49.354 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.390 [info] > git config --get commit.template [57ms]
+2023-09-27 18:46:49.423 [info] > git rev-parse --show-toplevel [47ms]
+2023-09-27 18:46:49.424 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.494 [info] > git rev-parse --show-toplevel [60ms]
+2023-09-27 18:46:49.494 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.507 [info] > git rev-parse --show-toplevel [3ms]
+2023-09-27 18:46:49.507 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.518 [info] > git rev-parse --show-toplevel [2ms]
+2023-09-27 18:46:49.518 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.552 [info] > git rev-parse --show-toplevel [24ms]
+2023-09-27 18:46:49.552 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-09-27 18:46:49.687 [info] > git rev-parse --show-toplevel [125ms]
+2023-09-27 18:46:49.700 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-09-27 18:46:49.717 [info] Open repository: /home/gambhir/yay
+2023-09-27 18:46:49.749 [info] > git config --get commit.template [6ms]
+2023-09-27 18:46:49.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [424ms]
